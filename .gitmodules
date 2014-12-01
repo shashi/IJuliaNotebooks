@@ -1,0 +1,6 @@
+[submodule "talks/Crossing Language Barriers with Julia, SciPy,IPython - EuroSciPy14 - Steven G Johnson"]
+	path = talks/Crossing Language Barriers with Julia, SciPy,IPython - EuroSciPy14 - Steven G Johnson
+	url = git://github.com/stevengj/Julia-EuroSciPy14.git
+[submodule "talks/Introduction to Julia - SciPy 2014 - David P. Sanders"]
+	path = talks/Introduction to Julia - SciPy 2014 - David P. Sanders
+	url = git://github.com/dpsanders/scipy_2014_julia.git

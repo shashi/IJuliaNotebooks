@@ -2,3 +2,5 @@
 *.swp
 *.swo
 *#
+.ipython_checkpoints
+*/.ipython_checkpoints
